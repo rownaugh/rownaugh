@@ -17,7 +17,7 @@
       </ul>
     </td>
     <td style="width: 40%; text-align: center;">
-      <img src="https://i.pinimg.com/originals/c6/f1/00/c6f10079289849bd827f6cadca93acbc.gif" width="250" alt="GIF" />
+      <img src="https://i.pinimg.com/originals/93/b2/ce/93b2ce8e5fdaf3d89dafd7b9f8b4c55f.gif" width="250" alt="GIF" />
     </td>
   </tr>
 </table>
